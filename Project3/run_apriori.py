@@ -19,7 +19,7 @@ else:
 
 filename = 'AprioriFile.txt'
 minSup = 80
-minConf = 100
+minConf = 90
 maxRule = 4
 
 # Run Apriori Algorithm
